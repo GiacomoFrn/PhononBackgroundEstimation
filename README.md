@@ -20,3 +20,7 @@ Data were collected at Panther, a TOF neutron spectrometer.
 *   [ExploreQdistributionv1]((ExploreQdistributionv1.ipynb))
 
     Code to explore the best energy cuts
+
+*   [FranceschettoGiacomo_report]((FranceschettoGiacomo_report.pdf))
+
+    Code to explore the best energy cuts
