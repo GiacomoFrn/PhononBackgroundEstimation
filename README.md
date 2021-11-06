@@ -17,10 +17,10 @@ Data were collected at Panther, a TOF neutron spectrometer.
 
     Jupyter notebooks with the complete subtraction for the selected run
     
-*   [ExploreQdistributionv1]((ExploreQdistributionv1.ipynb))
+*   [ExploreQdistributionv1](ExploreQdistributionv1.ipynb)
 
     Code to explore the best energy cuts
 
-*   [FranceschettoGiacomo_report]((FranceschettoGiacomo_report.pdf))
+*   [FranceschettoGiacomo_report](FranceschettoGiacomo_report.pdf)
 
     Final internship report
